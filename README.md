@@ -1,2 +1,1 @@
-# shadowsocks
-shadowsocks
+Removed according to regulations.
